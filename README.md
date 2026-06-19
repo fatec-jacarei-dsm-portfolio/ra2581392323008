@@ -5,7 +5,7 @@ Repositório do aluno JACKSON RODRIGO COSTA MACHADO.
 
 **Aluno:** JACKSON RODRIGO COSTA MACHADO  
 **Curso:** Desenvolvimento de Software Multiplataforma  
-**Turma:** 6° semente / 2023
+**Turma:** 2° semente / 2023
 
 ---
 
