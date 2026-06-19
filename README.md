@@ -11,7 +11,7 @@ Repositório do aluno JACKSON RODRIGO COSTA MACHADO.
 
 **Portfólio Online**
 
-🔗 [Acesse o Portfólio]([LINK_PARA_PORTFOLIO](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323008/))
+🔗 [Acesse o Portfólio]([https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323008/])
 
 ---
 
